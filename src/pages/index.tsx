@@ -32,7 +32,7 @@ export default function Page() {
 
       <main className="content">
         <Hero
-          title="Get Started with Headless"
+          title="Anthony Working with Headless"
           buttonText="Developer Docs"
           buttonURL="https://faustjs.org"
           button2Text="Headless on GitHub"
